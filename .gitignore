@@ -1,0 +1,15 @@
+# ide configuration folders
+.idea/
+.vscode/
+coverage.out
+
+# temporary files
+tmp/
+vendor/
+
+# .env configuration
+.env
+
+# persisted data
+db-data/
+cache/
